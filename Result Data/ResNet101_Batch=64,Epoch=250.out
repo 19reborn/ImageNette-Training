@@ -1,0 +1,509 @@
+nohup: ignoring input
+Ranger optimizer loaded. 
+Gradient Centralization usage = True
+GC applied to both conv and fc layers
+Epoch 0 / 250
+Duration: 102s, Train Loss: 15.1801, Train Acc: 0.2405， Test Acc : 0.3531, Test Loss: 5.3652
+Epoch 1 / 250
+Duration: 102s, Train Loss: 12.5521, Train Acc: 0.3909， Test Acc : 0.4958, Test Loss: 4.4406
+Epoch 2 / 250
+Duration: 102s, Train Loss: 10.8303, Train Acc: 0.4933， Test Acc : 0.5452, Test Loss: 4.0872
+Epoch 3 / 250
+Duration: 102s, Train Loss: 10.0489, Train Acc: 0.5372， Test Acc : 0.6451, Test Loss: 3.3373
+Epoch 4 / 250
+Duration: 102s, Train Loss: 9.1747, Train Acc: 0.5769， Test Acc : 0.6410, Test Loss: 3.2814
+Epoch 5 / 250
+Duration: 104s, Train Loss: 8.8172, Train Acc: 0.5938， Test Acc : 0.7068, Test Loss: 2.7053
+Epoch 6 / 250
+Duration: 102s, Train Loss: 8.1689, Train Acc: 0.6285， Test Acc : 0.6838, Test Loss: 3.0836
+Epoch 7 / 250
+Duration: 102s, Train Loss: 7.8127, Train Acc: 0.6502， Test Acc : 0.7248, Test Loss: 2.6029
+Epoch 8 / 250
+Duration: 103s, Train Loss: 7.5342, Train Acc: 0.6586， Test Acc : 0.7506, Test Loss: 2.3301
+Epoch 9 / 250
+Duration: 102s, Train Loss: 7.3905, Train Acc: 0.6608， Test Acc : 0.7473, Test Loss: 2.3519
+Epoch 10 / 250
+Duration: 102s, Train Loss: 6.9461, Train Acc: 0.6870， Test Acc : 0.7529, Test Loss: 2.3330
+Epoch 11 / 250
+Duration: 103s, Train Loss: 6.8963, Train Acc: 0.6873， Test Acc : 0.7827, Test Loss: 1.9983
+Epoch 12 / 250
+Duration: 102s, Train Loss: 6.5887, Train Acc: 0.6989， Test Acc : 0.6978, Test Loss: 3.1330
+Epoch 13 / 250
+Duration: 102s, Train Loss: 6.6142, Train Acc: 0.7012， Test Acc : 0.7763, Test Loss: 2.1361
+Epoch 14 / 250
+Duration: 102s, Train Loss: 6.2646, Train Acc: 0.7094， Test Acc : 0.8008, Test Loss: 1.8725
+Epoch 15 / 250
+Duration: 103s, Train Loss: 6.3935, Train Acc: 0.7100， Test Acc : 0.7266, Test Loss: 2.5036
+Epoch 16 / 250
+Duration: 101s, Train Loss: 6.0174, Train Acc: 0.7264， Test Acc : 0.7819, Test Loss: 2.0430
+Epoch 17 / 250
+Duration: 104s, Train Loss: 5.7979, Train Acc: 0.7417， Test Acc : 0.8115, Test Loss: 1.8310
+Epoch 18 / 250
+Duration: 102s, Train Loss: 5.8912, Train Acc: 0.7356， Test Acc : 0.7791, Test Loss: 2.0592
+Epoch 19 / 250
+Duration: 103s, Train Loss: 5.7836, Train Acc: 0.7402， Test Acc : 0.8097, Test Loss: 1.8136
+Epoch 20 / 250
+Duration: 103s, Train Loss: 5.7946, Train Acc: 0.7353， Test Acc : 0.8089, Test Loss: 1.7447
+Epoch 21 / 250
+Duration: 104s, Train Loss: 5.6530, Train Acc: 0.7460， Test Acc : 0.7946, Test Loss: 1.8961
+Epoch 22 / 250
+Duration: 103s, Train Loss: 5.5008, Train Acc: 0.7512， Test Acc : 0.8369, Test Loss: 1.5363
+Epoch 23 / 250
+Duration: 103s, Train Loss: 5.3747, Train Acc: 0.7544， Test Acc : 0.8397, Test Loss: 1.5250
+Epoch 24 / 250
+Duration: 103s, Train Loss: 5.2100, Train Acc: 0.7622， Test Acc : 0.8138, Test Loss: 1.8478
+Epoch 25 / 250
+Duration: 103s, Train Loss: 5.3943, Train Acc: 0.7569， Test Acc : 0.8166, Test Loss: 1.7270
+Epoch 26 / 250
+Duration: 103s, Train Loss: 5.1873, Train Acc: 0.7698， Test Acc : 0.8479, Test Loss: 1.4540
+Epoch 27 / 250
+Duration: 102s, Train Loss: 5.1546, Train Acc: 0.7662， Test Acc : 0.7750, Test Loss: 2.1504
+Epoch 28 / 250
+Duration: 103s, Train Loss: 5.2147, Train Acc: 0.7652， Test Acc : 0.8196, Test Loss: 1.8223
+Epoch 29 / 250
+Duration: 103s, Train Loss: 5.1815, Train Acc: 0.7635， Test Acc : 0.8525, Test Loss: 1.4223
+Epoch 30 / 250
+Duration: 103s, Train Loss: 4.9262, Train Acc: 0.7770， Test Acc : 0.8313, Test Loss: 1.6016
+Epoch 31 / 250
+Duration: 103s, Train Loss: 4.9794, Train Acc: 0.7751， Test Acc : 0.8352, Test Loss: 1.4811
+Epoch 32 / 250
+Duration: 103s, Train Loss: 4.6333, Train Acc: 0.7901， Test Acc : 0.8525, Test Loss: 1.3807
+Epoch 33 / 250
+Duration: 103s, Train Loss: 4.7780, Train Acc: 0.7835， Test Acc : 0.8166, Test Loss: 1.7062
+Epoch 34 / 250
+Duration: 103s, Train Loss: 4.6143, Train Acc: 0.7884， Test Acc : 0.8469, Test Loss: 1.5008
+Epoch 35 / 250
+Duration: 103s, Train Loss: 4.9086, Train Acc: 0.7814， Test Acc : 0.8512, Test Loss: 1.4172
+Epoch 36 / 250
+Duration: 103s, Train Loss: 4.6879, Train Acc: 0.7866， Test Acc : 0.7750, Test Loss: 2.3441
+Epoch 37 / 250
+Duration: 103s, Train Loss: 4.6058, Train Acc: 0.7911， Test Acc : 0.8377, Test Loss: 1.5474
+Epoch 38 / 250
+Duration: 104s, Train Loss: 4.2898, Train Acc: 0.8035， Test Acc : 0.8685, Test Loss: 1.2562
+Epoch 39 / 250
+Duration: 103s, Train Loss: 4.3428, Train Acc: 0.8036， Test Acc : 0.8510, Test Loss: 1.3707
+Epoch 40 / 250
+Duration: 103s, Train Loss: 4.1954, Train Acc: 0.8104， Test Acc : 0.8655, Test Loss: 1.2355
+Epoch 41 / 250
+Duration: 103s, Train Loss: 4.2849, Train Acc: 0.8049， Test Acc : 0.8782, Test Loss: 1.2162
+Epoch 42 / 250
+Duration: 102s, Train Loss: 4.5239, Train Acc: 0.7983， Test Acc : 0.8400, Test Loss: 1.5239
+Epoch 43 / 250
+Duration: 103s, Train Loss: 4.2208, Train Acc: 0.8109， Test Acc : 0.8634, Test Loss: 1.2749
+Epoch 44 / 250
+Duration: 103s, Train Loss: 4.0854, Train Acc: 0.8157， Test Acc : 0.8777, Test Loss: 1.1694
+Epoch 45 / 250
+Duration: 102s, Train Loss: 3.9758, Train Acc: 0.8225， Test Acc : 0.8632, Test Loss: 1.2744
+Epoch 46 / 250
+Duration: 103s, Train Loss: 3.8499, Train Acc: 0.8218， Test Acc : 0.8754, Test Loss: 1.2043
+Epoch 47 / 250
+Duration: 103s, Train Loss: 4.1678, Train Acc: 0.8129， Test Acc : 0.8718, Test Loss: 1.2207
+Epoch 48 / 250
+Duration: 103s, Train Loss: 3.8882, Train Acc: 0.8266， Test Acc : 0.8769, Test Loss: 1.1913
+Epoch 49 / 250
+Duration: 103s, Train Loss: 3.7089, Train Acc: 0.8355， Test Acc : 0.8698, Test Loss: 1.2045
+Epoch 50 / 250
+Duration: 102s, Train Loss: 4.6647, Train Acc: 0.7974， Test Acc : 0.8507, Test Loss: 1.5604
+Epoch 51 / 250
+Duration: 103s, Train Loss: 4.7619, Train Acc: 0.7930， Test Acc : 0.8260, Test Loss: 1.7689
+Epoch 52 / 250
+Duration: 103s, Train Loss: 4.3056, Train Acc: 0.8060， Test Acc : 0.8655, Test Loss: 1.2651
+Epoch 53 / 250
+Duration: 103s, Train Loss: 3.7771, Train Acc: 0.8307， Test Acc : 0.8854, Test Loss: 1.0729
+Epoch 54 / 250
+Duration: 102s, Train Loss: 3.5246, Train Acc: 0.8391， Test Acc : 0.8731, Test Loss: 1.2011
+Epoch 55 / 250
+Duration: 103s, Train Loss: 3.5618, Train Acc: 0.8372， Test Acc : 0.8884, Test Loss: 1.1206
+Epoch 56 / 250
+Duration: 104s, Train Loss: 3.6853, Train Acc: 0.8307， Test Acc : 0.8876, Test Loss: 1.0778
+Epoch 57 / 250
+Duration: 102s, Train Loss: 3.4839, Train Acc: 0.8395， Test Acc : 0.8724, Test Loss: 1.3101
+Epoch 58 / 250
+Duration: 101s, Train Loss: 3.3808, Train Acc: 0.8443， Test Acc : 0.8752, Test Loss: 1.1992
+Epoch 59 / 250
+Duration: 104s, Train Loss: 3.4797, Train Acc: 0.8438， Test Acc : 0.8856, Test Loss: 1.1082
+Epoch 60 / 250
+Duration: 103s, Train Loss: 3.5204, Train Acc: 0.8367， Test Acc : 0.8639, Test Loss: 1.3150
+Epoch 61 / 250
+Duration: 103s, Train Loss: 3.4882, Train Acc: 0.8412， Test Acc : 0.8876, Test Loss: 1.1201
+Epoch 62 / 250
+Duration: 103s, Train Loss: 3.3404, Train Acc: 0.8494， Test Acc : 0.8879, Test Loss: 1.0946
+Epoch 63 / 250
+Duration: 103s, Train Loss: 3.1892, Train Acc: 0.8558， Test Acc : 0.8675, Test Loss: 1.2654
+Epoch 64 / 250
+Duration: 103s, Train Loss: 3.2673, Train Acc: 0.8501， Test Acc : 0.8718, Test Loss: 1.6734
+Epoch 65 / 250
+Duration: 103s, Train Loss: 3.5461, Train Acc: 0.8402， Test Acc : 0.8866, Test Loss: 1.0703
+Epoch 66 / 250
+Duration: 102s, Train Loss: 3.4893, Train Acc: 0.8431， Test Acc : 0.8808, Test Loss: 1.1889
+Epoch 67 / 250
+Duration: 103s, Train Loss: 3.2211, Train Acc: 0.8488， Test Acc : 0.8879, Test Loss: 1.1008
+Epoch 68 / 250
+Duration: 102s, Train Loss: 3.1747, Train Acc: 0.8567， Test Acc : 0.8938, Test Loss: 1.0233
+Epoch 69 / 250
+Duration: 102s, Train Loss: 3.0539, Train Acc: 0.8583， Test Acc : 0.8718, Test Loss: 1.2092
+Epoch 70 / 250
+Duration: 103s, Train Loss: 2.9203, Train Acc: 0.8694， Test Acc : 0.8920, Test Loss: 1.0730
+Epoch 71 / 250
+Duration: 103s, Train Loss: 3.1006, Train Acc: 0.8584， Test Acc : 0.8932, Test Loss: 1.0503
+Epoch 72 / 250
+Duration: 102s, Train Loss: 3.1813, Train Acc: 0.8551， Test Acc : 0.8961, Test Loss: 1.0034
+Epoch 73 / 250
+Duration: 103s, Train Loss: 2.8852, Train Acc: 0.8694， Test Acc : 0.8978, Test Loss: 1.0088
+Epoch 74 / 250
+Duration: 103s, Train Loss: 3.5438, Train Acc: 0.8417， Test Acc : 0.8938, Test Loss: 1.0971
+Epoch 75 / 250
+Duration: 102s, Train Loss: 3.2014, Train Acc: 0.8541， Test Acc : 0.8871, Test Loss: 1.0506
+Epoch 76 / 250
+Duration: 102s, Train Loss: 2.8376, Train Acc: 0.8713， Test Acc : 0.8963, Test Loss: 0.9849
+Epoch 77 / 250
+Duration: 102s, Train Loss: 2.9558, Train Acc: 0.8663， Test Acc : 0.9045, Test Loss: 0.9164
+Epoch 78 / 250
+Duration: 103s, Train Loss: 2.9677, Train Acc: 0.8604， Test Acc : 0.8833, Test Loss: 1.2128
+Epoch 79 / 250
+Duration: 102s, Train Loss: 2.7122, Train Acc: 0.8739， Test Acc : 0.9045, Test Loss: 0.9595
+Epoch 80 / 250
+Duration: 102s, Train Loss: 3.1815, Train Acc: 0.8563， Test Acc : 0.8966, Test Loss: 0.9844
+Epoch 81 / 250
+Duration: 102s, Train Loss: 2.9432, Train Acc: 0.8648， Test Acc : 0.8971, Test Loss: 0.9751
+Epoch 82 / 250
+Duration: 103s, Train Loss: 2.8238, Train Acc: 0.8704， Test Acc : 0.9090, Test Loss: 0.8998
+Epoch 83 / 250
+Duration: 103s, Train Loss: 3.0380, Train Acc: 0.8650， Test Acc : 0.8871, Test Loss: 1.2408
+Epoch 84 / 250
+Duration: 103s, Train Loss: 3.2248, Train Acc: 0.8567， Test Acc : 0.9024, Test Loss: 0.9900
+Epoch 85 / 250
+Duration: 103s, Train Loss: 2.8861, Train Acc: 0.8680， Test Acc : 0.9068, Test Loss: 0.9642
+Epoch 86 / 250
+Duration: 103s, Train Loss: 2.7352, Train Acc: 0.8760， Test Acc : 0.9090, Test Loss: 0.9168
+Epoch 87 / 250
+Duration: 102s, Train Loss: 2.5855, Train Acc: 0.8825， Test Acc : 0.9004, Test Loss: 0.9795
+Epoch 88 / 250
+Duration: 103s, Train Loss: 2.4576, Train Acc: 0.8859， Test Acc : 0.9055, Test Loss: 1.0040
+Epoch 89 / 250
+Duration: 103s, Train Loss: 2.6069, Train Acc: 0.8818， Test Acc : 0.9149, Test Loss: 0.8437
+Epoch 90 / 250
+Duration: 103s, Train Loss: 2.4209, Train Acc: 0.8896， Test Acc : 0.9118, Test Loss: 0.8779
+Epoch 91 / 250
+Duration: 103s, Train Loss: 2.4054, Train Acc: 0.8907， Test Acc : 0.9141, Test Loss: 0.8582
+Epoch 92 / 250
+Duration: 103s, Train Loss: 2.4147, Train Acc: 0.8920， Test Acc : 0.9162, Test Loss: 0.7969
+Epoch 93 / 250
+Duration: 103s, Train Loss: 2.2863, Train Acc: 0.8960， Test Acc : 0.9106, Test Loss: 0.8666
+Epoch 94 / 250
+Duration: 101s, Train Loss: 2.3522, Train Acc: 0.8929， Test Acc : 0.9070, Test Loss: 0.9029
+Epoch 95 / 250
+Duration: 104s, Train Loss: 2.3430, Train Acc: 0.8907， Test Acc : 0.9172, Test Loss: 0.8497
+Epoch 96 / 250
+Duration: 103s, Train Loss: 2.4337, Train Acc: 0.8873， Test Acc : 0.9118, Test Loss: 0.9398
+Epoch 97 / 250
+Duration: 103s, Train Loss: 2.4312, Train Acc: 0.8858， Test Acc : 0.9126, Test Loss: 0.8649
+Epoch 98 / 250
+Duration: 103s, Train Loss: 2.2504, Train Acc: 0.8985， Test Acc : 0.9218, Test Loss: 0.7831
+Epoch 99 / 250
+Duration: 103s, Train Loss: 2.7041, Train Acc: 0.8757， Test Acc : 0.8716, Test Loss: 1.5886
+Epoch 100 / 250
+Duration: 103s, Train Loss: 2.8783, Train Acc: 0.8709， Test Acc : 0.9126, Test Loss: 0.8371
+Epoch 101 / 250
+Duration: 103s, Train Loss: 2.3052, Train Acc: 0.8945， Test Acc : 0.9213, Test Loss: 0.8104
+Epoch 102 / 250
+Duration: 103s, Train Loss: 2.0728, Train Acc: 0.9072， Test Acc : 0.9162, Test Loss: 0.8535
+Epoch 103 / 250
+Duration: 103s, Train Loss: 2.1211, Train Acc: 0.8999， Test Acc : 0.9251, Test Loss: 0.7715
+Epoch 104 / 250
+Duration: 103s, Train Loss: 2.1741, Train Acc: 0.9029， Test Acc : 0.9241, Test Loss: 0.7606
+Epoch 105 / 250
+Duration: 103s, Train Loss: 2.0861, Train Acc: 0.9067， Test Acc : 0.9118, Test Loss: 0.8692
+Epoch 106 / 250
+Duration: 103s, Train Loss: 2.0661, Train Acc: 0.9054， Test Acc : 0.9220, Test Loss: 0.7777
+Epoch 107 / 250
+Duration: 103s, Train Loss: 2.0910, Train Acc: 0.9065， Test Acc : 0.9149, Test Loss: 0.8179
+Epoch 108 / 250
+Duration: 101s, Train Loss: 2.0592, Train Acc: 0.9043， Test Acc : 0.9159, Test Loss: 0.8403
+Epoch 109 / 250
+Duration: 104s, Train Loss: 2.1648, Train Acc: 0.9019， Test Acc : 0.9195, Test Loss: 0.7749
+Epoch 110 / 250
+Duration: 103s, Train Loss: 1.9328, Train Acc: 0.9101， Test Acc : 0.9195, Test Loss: 0.7932
+Epoch 111 / 250
+Duration: 103s, Train Loss: 2.0431, Train Acc: 0.9032， Test Acc : 0.9162, Test Loss: 0.8081
+Epoch 112 / 250
+Duration: 102s, Train Loss: 2.0009, Train Acc: 0.9082， Test Acc : 0.8884, Test Loss: 1.5875
+Epoch 113 / 250
+Duration: 102s, Train Loss: 2.1670, Train Acc: 0.9034， Test Acc : 0.9190, Test Loss: 0.9103
+Epoch 114 / 250
+Duration: 102s, Train Loss: 2.3117, Train Acc: 0.8952， Test Acc : 0.9146, Test Loss: 0.8723
+Epoch 115 / 250
+Duration: 102s, Train Loss: 2.0567, Train Acc: 0.9059， Test Acc : 0.9190, Test Loss: 0.8115
+Epoch 116 / 250
+Duration: 102s, Train Loss: 2.0048, Train Acc: 0.9094， Test Acc : 0.9274, Test Loss: 0.7521
+Epoch 117 / 250
+Duration: 102s, Train Loss: 1.9122, Train Acc: 0.9099， Test Acc : 0.9167, Test Loss: 0.8456
+Epoch 118 / 250
+Duration: 103s, Train Loss: 1.9454, Train Acc: 0.9094， Test Acc : 0.9154, Test Loss: 0.8479
+Epoch 119 / 250
+Duration: 103s, Train Loss: 1.8424, Train Acc: 0.9178， Test Acc : 0.9236, Test Loss: 0.7420
+Epoch 120 / 250
+Duration: 102s, Train Loss: 1.8177, Train Acc: 0.9174， Test Acc : 0.9001, Test Loss: 1.1001
+Epoch 121 / 250
+Duration: 102s, Train Loss: 2.0583, Train Acc: 0.9089， Test Acc : 0.9106, Test Loss: 1.3001
+Epoch 122 / 250
+Duration: 104s, Train Loss: 1.8472, Train Acc: 0.9175， Test Acc : 0.9231, Test Loss: 0.7488
+Epoch 123 / 250
+Duration: 103s, Train Loss: 1.8024, Train Acc: 0.9170， Test Acc : 0.9254, Test Loss: 0.7653
+Epoch 124 / 250
+Duration: 103s, Train Loss: 1.8065, Train Acc: 0.9169， Test Acc : 0.9228, Test Loss: 0.7994
+Epoch 125 / 250
+Duration: 102s, Train Loss: 1.7571, Train Acc: 0.9232， Test Acc : 0.9241, Test Loss: 0.7446
+Epoch 126 / 250
+Duration: 102s, Train Loss: 1.7173, Train Acc: 0.9226， Test Acc : 0.9169, Test Loss: 0.8925
+Epoch 127 / 250
+Duration: 103s, Train Loss: 1.6717, Train Acc: 0.9230， Test Acc : 0.9254, Test Loss: 0.7506
+Epoch 128 / 250
+Duration: 103s, Train Loss: 1.6818, Train Acc: 0.9257， Test Acc : 0.9251, Test Loss: 0.7533
+Epoch 129 / 250
+Duration: 103s, Train Loss: 1.7261, Train Acc: 0.9216， Test Acc : 0.9297, Test Loss: 0.7095
+Epoch 130 / 250
+Duration: 102s, Train Loss: 1.6319, Train Acc: 0.9261， Test Acc : 0.9289, Test Loss: 0.7088
+Epoch 131 / 250
+Duration: 103s, Train Loss: 1.5873, Train Acc: 0.9283， Test Acc : 0.9251, Test Loss: 0.7394
+Epoch 132 / 250
+Duration: 103s, Train Loss: 1.7599, Train Acc: 0.9222， Test Acc : 0.9218, Test Loss: 0.7745
+Epoch 133 / 250
+Duration: 103s, Train Loss: 1.5762, Train Acc: 0.9268， Test Acc : 0.9310, Test Loss: 0.7277
+Epoch 134 / 250
+Duration: 103s, Train Loss: 1.5529, Train Acc: 0.9277， Test Acc : 0.9287, Test Loss: 0.7459
+Epoch 135 / 250
+Duration: 103s, Train Loss: 1.4942, Train Acc: 0.9346， Test Acc : 0.9203, Test Loss: 0.8081
+Epoch 136 / 250
+Duration: 103s, Train Loss: 1.5172, Train Acc: 0.9326， Test Acc : 0.9289, Test Loss: 0.7415
+Epoch 137 / 250
+Duration: 103s, Train Loss: 1.5115, Train Acc: 0.9303， Test Acc : 0.9251, Test Loss: 0.8814
+Epoch 138 / 250
+Duration: 103s, Train Loss: 1.7665, Train Acc: 0.9223， Test Acc : 0.9238, Test Loss: 0.7723
+Epoch 139 / 250
+Duration: 103s, Train Loss: 1.6506, Train Acc: 0.9236， Test Acc : 0.9279, Test Loss: 0.7695
+Epoch 140 / 250
+Duration: 102s, Train Loss: 1.5418, Train Acc: 0.9305， Test Acc : 0.9299, Test Loss: 0.6836
+Epoch 141 / 250
+Duration: 103s, Train Loss: 1.4620, Train Acc: 0.9345， Test Acc : 0.9307, Test Loss: 0.7254
+Epoch 142 / 250
+Duration: 102s, Train Loss: 1.4732, Train Acc: 0.9323， Test Acc : 0.9225, Test Loss: 0.7746
+Epoch 143 / 250
+Duration: 103s, Train Loss: 1.4627, Train Acc: 0.9340， Test Acc : 0.9315, Test Loss: 0.7222
+Epoch 144 / 250
+Duration: 102s, Train Loss: 1.3947, Train Acc: 0.9373， Test Acc : 0.9266, Test Loss: 0.7627
+Epoch 145 / 250
+Duration: 102s, Train Loss: 1.3463, Train Acc: 0.9403， Test Acc : 0.9261, Test Loss: 0.7691
+Epoch 146 / 250
+Duration: 102s, Train Loss: 1.4367, Train Acc: 0.9318， Test Acc : 0.9233, Test Loss: 0.7833
+Epoch 147 / 250
+Duration: 102s, Train Loss: 1.3301, Train Acc: 0.9389， Test Acc : 0.9292, Test Loss: 0.7320
+Epoch 148 / 250
+Duration: 102s, Train Loss: 1.3876, Train Acc: 0.9362， Test Acc : 0.9254, Test Loss: 0.7627
+Epoch 149 / 250
+Duration: 102s, Train Loss: 1.3845, Train Acc: 0.9378， Test Acc : 0.9236, Test Loss: 0.7730
+Epoch 150 / 250
+Duration: 102s, Train Loss: 1.4558, Train Acc: 0.9338， Test Acc : 0.9312, Test Loss: 0.7124
+Epoch 151 / 250
+Duration: 102s, Train Loss: 1.3233, Train Acc: 0.9394， Test Acc : 0.9251, Test Loss: 0.8105
+Epoch 152 / 250
+Duration: 102s, Train Loss: 1.3130, Train Acc: 0.9411， Test Acc : 0.9310, Test Loss: 0.7071
+Epoch 153 / 250
+Duration: 104s, Train Loss: 1.3415, Train Acc: 0.9367， Test Acc : 0.9315, Test Loss: 0.7451
+Epoch 154 / 250
+Duration: 102s, Train Loss: 1.3481, Train Acc: 0.9403， Test Acc : 0.9256, Test Loss: 0.7708
+Epoch 155 / 250
+Duration: 102s, Train Loss: 1.4705, Train Acc: 0.9325， Test Acc : 0.9228, Test Loss: 0.8247
+Epoch 156 / 250
+Duration: 103s, Train Loss: 1.3484, Train Acc: 0.9383， Test Acc : 0.9289, Test Loss: 0.7696
+Epoch 157 / 250
+Duration: 102s, Train Loss: 1.3390, Train Acc: 0.9389， Test Acc : 0.9322, Test Loss: 0.6956
+Epoch 158 / 250
+Duration: 103s, Train Loss: 1.2941, Train Acc: 0.9420， Test Acc : 0.9348, Test Loss: 0.7050
+Epoch 159 / 250
+Duration: 103s, Train Loss: 1.2627, Train Acc: 0.9422， Test Acc : 0.9315, Test Loss: 0.7428
+Epoch 160 / 250
+Duration: 102s, Train Loss: 1.3282, Train Acc: 0.9417， Test Acc : 0.9363, Test Loss: 0.6651
+Epoch 161 / 250
+Duration: 102s, Train Loss: 1.4002, Train Acc: 0.9395， Test Acc : 0.9310, Test Loss: 0.7738
+Epoch 162 / 250
+Duration: 102s, Train Loss: 1.3540, Train Acc: 0.9392， Test Acc : 0.9320, Test Loss: 0.7215
+Epoch 163 / 250
+Duration: 102s, Train Loss: 1.2454, Train Acc: 0.9416， Test Acc : 0.9348, Test Loss: 0.6978
+Epoch 164 / 250
+Duration: 102s, Train Loss: 1.2749, Train Acc: 0.9430， Test Acc : 0.9343, Test Loss: 0.6934
+Epoch 165 / 250
+Duration: 102s, Train Loss: 1.2191, Train Acc: 0.9425， Test Acc : 0.9297, Test Loss: 0.7393
+Epoch 166 / 250
+Duration: 102s, Train Loss: 1.1771, Train Acc: 0.9464， Test Acc : 0.9282, Test Loss: 0.7664
+Epoch 167 / 250
+Duration: 102s, Train Loss: 1.1302, Train Acc: 0.9509， Test Acc : 0.9345, Test Loss: 0.7408
+Epoch 168 / 250
+Duration: 102s, Train Loss: 1.1994, Train Acc: 0.9453， Test Acc : 0.9312, Test Loss: 0.7553
+Epoch 169 / 250
+Duration: 102s, Train Loss: 1.1955, Train Acc: 0.9460， Test Acc : 0.9371, Test Loss: 0.6933
+Epoch 170 / 250
+Duration: 102s, Train Loss: 1.1420, Train Acc: 0.9475， Test Acc : 0.9389, Test Loss: 0.6950
+Epoch 171 / 250
+Duration: 102s, Train Loss: 1.2239, Train Acc: 0.9437， Test Acc : 0.9343, Test Loss: 0.7359
+Epoch 172 / 250
+Duration: 103s, Train Loss: 1.2092, Train Acc: 0.9453， Test Acc : 0.9325, Test Loss: 0.7029
+Epoch 173 / 250
+Duration: 102s, Train Loss: 1.1651, Train Acc: 0.9484， Test Acc : 0.9327, Test Loss: 0.7233
+Epoch 174 / 250
+Duration: 102s, Train Loss: 1.1508, Train Acc: 0.9473， Test Acc : 0.9343, Test Loss: 0.7232
+Epoch 175 / 250
+Duration: 102s, Train Loss: 1.1780, Train Acc: 0.9471， Test Acc : 0.9320, Test Loss: 0.7394
+Epoch 176 / 250
+Duration: 102s, Train Loss: 1.2086, Train Acc: 0.9469， Test Acc : 0.9348, Test Loss: 0.7106
+Epoch 177 / 250
+Duration: 103s, Train Loss: 1.1325, Train Acc: 0.9498， Test Acc : 0.9361, Test Loss: 0.7013
+Epoch 178 / 250
+Duration: 103s, Train Loss: 1.0636, Train Acc: 0.9508， Test Acc : 0.9345, Test Loss: 0.6995
+Epoch 179 / 250
+Duration: 102s, Train Loss: 1.0346, Train Acc: 0.9524， Test Acc : 0.9368, Test Loss: 0.7183
+Epoch 180 / 250
+Duration: 102s, Train Loss: 0.9762, Train Acc: 0.9545， Test Acc : 0.9386, Test Loss: 0.6792
+Epoch 181 / 250
+Duration: 104s, Train Loss: 1.0223, Train Acc: 0.9555， Test Acc : 0.9350, Test Loss: 0.7594
+Epoch 182 / 250
+Duration: 103s, Train Loss: 1.0480, Train Acc: 0.9529， Test Acc : 0.9335, Test Loss: 0.6940
+Epoch 183 / 250
+Duration: 103s, Train Loss: 0.8933, Train Acc: 0.9611， Test Acc : 0.9381, Test Loss: 0.6723
+Epoch 184 / 250
+Duration: 103s, Train Loss: 1.1099, Train Acc: 0.9505， Test Acc : 0.9414, Test Loss: 0.6568
+Epoch 185 / 250
+Duration: 103s, Train Loss: 0.9600, Train Acc: 0.9562， Test Acc : 0.9389, Test Loss: 0.6465
+Epoch 186 / 250
+Duration: 103s, Train Loss: 0.9213, Train Acc: 0.9582， Test Acc : 0.9378, Test Loss: 0.6914
+Epoch 187 / 250
+Duration: 103s, Train Loss: 0.9594, Train Acc: 0.9556， Test Acc : 0.9389, Test Loss: 0.6860
+Epoch 188 / 250
+Duration: 103s, Train Loss: 0.9832, Train Acc: 0.9565， Test Acc : 0.9376, Test Loss: 0.7277
+Epoch 189 / 250
+Duration: 103s, Train Loss: 1.0135, Train Acc: 0.9552， Test Acc : 0.9322, Test Loss: 0.6889
+Epoch 190 / 250
+Duration: 102s, Train Loss: 0.9998, Train Acc: 0.9558， Test Acc : 0.9338, Test Loss: 0.7339
+Epoch 191 / 250
+Duration: 103s, Train Loss: 0.9650, Train Acc: 0.9582， Test Acc : 0.9378, Test Loss: 0.6987
+Epoch 192 / 250
+Duration: 103s, Train Loss: 1.0422, Train Acc: 0.9553， Test Acc : 0.9330, Test Loss: 0.7505
+Epoch 193 / 250
+Duration: 103s, Train Loss: 1.0179, Train Acc: 0.9538， Test Acc : 0.9381, Test Loss: 0.7025
+Epoch 194 / 250
+Duration: 103s, Train Loss: 0.9190, Train Acc: 0.9582， Test Acc : 0.9389, Test Loss: 0.6827
+Epoch 195 / 250
+Duration: 103s, Train Loss: 0.9582, Train Acc: 0.9577， Test Acc : 0.9399, Test Loss: 0.6613
+Epoch 196 / 250
+Duration: 103s, Train Loss: 0.9140, Train Acc: 0.9593， Test Acc : 0.9381, Test Loss: 0.7000
+Epoch 197 / 250
+Duration: 103s, Train Loss: 0.8958, Train Acc: 0.9602， Test Acc : 0.9353, Test Loss: 0.6832
+Epoch 198 / 250
+Duration: 103s, Train Loss: 0.8725, Train Acc: 0.9596， Test Acc : 0.9366, Test Loss: 0.6836
+Epoch 199 / 250
+Duration: 103s, Train Loss: 0.8577, Train Acc: 0.9605， Test Acc : 0.9373, Test Loss: 0.6678
+Epoch 200 / 250
+Duration: 103s, Train Loss: 0.9171, Train Acc: 0.9586， Test Acc : 0.9378, Test Loss: 0.6866
+Epoch 201 / 250
+Duration: 102s, Train Loss: 0.9064, Train Acc: 0.9604， Test Acc : 0.9371, Test Loss: 0.6687
+Epoch 202 / 250
+Duration: 103s, Train Loss: 0.9555, Train Acc: 0.9587， Test Acc : 0.9371, Test Loss: 0.6858
+Epoch 203 / 250
+Duration: 103s, Train Loss: 0.9084, Train Acc: 0.9586， Test Acc : 0.9396, Test Loss: 0.6706
+Epoch 204 / 250
+Duration: 103s, Train Loss: 0.8658, Train Acc: 0.9622， Test Acc : 0.9399, Test Loss: 0.6614
+Epoch 205 / 250
+Duration: 104s, Train Loss: 0.8192, Train Acc: 0.9625， Test Acc : 0.9391, Test Loss: 0.6510
+Epoch 206 / 250
+Duration: 103s, Train Loss: 0.8543, Train Acc: 0.9618， Test Acc : 0.9378, Test Loss: 0.6402
+Epoch 207 / 250
+Duration: 102s, Train Loss: 0.7334, Train Acc: 0.9669， Test Acc : 0.9409, Test Loss: 0.6599
+Epoch 208 / 250
+Duration: 102s, Train Loss: 0.8473, Train Acc: 0.9616， Test Acc : 0.9409, Test Loss: 0.6489
+Epoch 209 / 250
+Duration: 102s, Train Loss: 0.9005, Train Acc: 0.9594， Test Acc : 0.9396, Test Loss: 0.6765
+Epoch 210 / 250
+Duration: 102s, Train Loss: 0.8517, Train Acc: 0.9621， Test Acc : 0.9366, Test Loss: 0.6884
+Epoch 211 / 250
+Duration: 102s, Train Loss: 0.8695, Train Acc: 0.9612， Test Acc : 0.9406, Test Loss: 0.6391
+Epoch 212 / 250
+Duration: 103s, Train Loss: 0.7933, Train Acc: 0.9660， Test Acc : 0.9427, Test Loss: 0.6149
+Epoch 213 / 250
+Duration: 102s, Train Loss: 0.7465, Train Acc: 0.9656， Test Acc : 0.9414, Test Loss: 0.6388
+Epoch 214 / 250
+Duration: 102s, Train Loss: 0.8059, Train Acc: 0.9609， Test Acc : 0.9422, Test Loss: 0.6338
+Epoch 215 / 250
+Duration: 102s, Train Loss: 0.8137, Train Acc: 0.9631， Test Acc : 0.9409, Test Loss: 0.6552
+Epoch 216 / 250
+Duration: 102s, Train Loss: 0.7838, Train Acc: 0.9641， Test Acc : 0.9366, Test Loss: 0.6774
+Epoch 217 / 250
+Duration: 102s, Train Loss: 0.7745, Train Acc: 0.9658， Test Acc : 0.9401, Test Loss: 0.6757
+Epoch 218 / 250
+Duration: 102s, Train Loss: 0.7195, Train Acc: 0.9672， Test Acc : 0.9422, Test Loss: 0.6673
+Epoch 219 / 250
+Duration: 102s, Train Loss: 0.7678, Train Acc: 0.9653， Test Acc : 0.9383, Test Loss: 0.6697
+Epoch 220 / 250
+Duration: 102s, Train Loss: 0.7456, Train Acc: 0.9661， Test Acc : 0.9409, Test Loss: 0.6602
+Epoch 221 / 250
+Duration: 102s, Train Loss: 0.7982, Train Acc: 0.9653， Test Acc : 0.9427, Test Loss: 0.6488
+Epoch 222 / 250
+Duration: 102s, Train Loss: 0.7214, Train Acc: 0.9667， Test Acc : 0.9442, Test Loss: 0.6484
+Epoch 223 / 250
+Duration: 102s, Train Loss: 0.7704, Train Acc: 0.9675， Test Acc : 0.9419, Test Loss: 0.6546
+Epoch 224 / 250
+Duration: 102s, Train Loss: 0.7376, Train Acc: 0.9654， Test Acc : 0.9442, Test Loss: 0.6209
+Epoch 225 / 250
+Duration: 102s, Train Loss: 0.7661, Train Acc: 0.9642， Test Acc : 0.9427, Test Loss: 0.6551
+Epoch 226 / 250
+Duration: 102s, Train Loss: 0.7534, Train Acc: 0.9657， Test Acc : 0.9424, Test Loss: 0.6198
+Epoch 227 / 250
+Duration: 102s, Train Loss: 0.7274, Train Acc: 0.9659， Test Acc : 0.9419, Test Loss: 0.6258
+Epoch 228 / 250
+Duration: 102s, Train Loss: 0.7860, Train Acc: 0.9644， Test Acc : 0.9434, Test Loss: 0.6455
+Epoch 229 / 250
+Duration: 102s, Train Loss: 0.7809, Train Acc: 0.9648， Test Acc : 0.9417, Test Loss: 0.6349
+Epoch 230 / 250
+Duration: 104s, Train Loss: 0.7180, Train Acc: 0.9687， Test Acc : 0.9434, Test Loss: 0.6324
+Epoch 231 / 250
+Duration: 103s, Train Loss: 0.7065, Train Acc: 0.9662， Test Acc : 0.9450, Test Loss: 0.6242
+Epoch 232 / 250
+Duration: 103s, Train Loss: 0.7722, Train Acc: 0.9664， Test Acc : 0.9427, Test Loss: 0.6418
+Epoch 233 / 250
+Duration: 103s, Train Loss: 0.7591, Train Acc: 0.9649， Test Acc : 0.9419, Test Loss: 0.6393
+Epoch 234 / 250
+Duration: 103s, Train Loss: 0.7255, Train Acc: 0.9674， Test Acc : 0.9414, Test Loss: 0.6395
+Epoch 235 / 250
+Duration: 103s, Train Loss: 0.7806, Train Acc: 0.9642， Test Acc : 0.9429, Test Loss: 0.6149
+Epoch 236 / 250
+Duration: 103s, Train Loss: 0.8160, Train Acc: 0.9641， Test Acc : 0.9439, Test Loss: 0.6163
+Epoch 237 / 250
+Duration: 103s, Train Loss: 0.7566, Train Acc: 0.9659， Test Acc : 0.9442, Test Loss: 0.6132
+Epoch 238 / 250
+Duration: 103s, Train Loss: 0.6891, Train Acc: 0.9690， Test Acc : 0.9417, Test Loss: 0.6128
+Epoch 239 / 250
+Duration: 103s, Train Loss: 0.6894, Train Acc: 0.9693， Test Acc : 0.9429, Test Loss: 0.6362
+Epoch 240 / 250
+Duration: 103s, Train Loss: 0.6919, Train Acc: 0.9699， Test Acc : 0.9419, Test Loss: 0.6280
+Epoch 241 / 250
+Duration: 103s, Train Loss: 0.6557, Train Acc: 0.9702， Test Acc : 0.9417, Test Loss: 0.6414
+Epoch 242 / 250
+Duration: 103s, Train Loss: 0.6651, Train Acc: 0.9686， Test Acc : 0.9419, Test Loss: 0.6429
+Epoch 243 / 250
+Duration: 103s, Train Loss: 0.7247, Train Acc: 0.9682， Test Acc : 0.9432, Test Loss: 0.6182
+Epoch 244 / 250
+Duration: 103s, Train Loss: 0.6353, Train Acc: 0.9704， Test Acc : 0.9427, Test Loss: 0.6289
+Epoch 245 / 250
+Duration: 103s, Train Loss: 0.6785, Train Acc: 0.9692， Test Acc : 0.9442, Test Loss: 0.6279
+Epoch 246 / 250
+Duration: 103s, Train Loss: 0.6856, Train Acc: 0.9676， Test Acc : 0.9427, Test Loss: 0.6400
+Epoch 247 / 250
+Duration: 103s, Train Loss: 0.7274, Train Acc: 0.9658， Test Acc : 0.9429, Test Loss: 0.6293
+Epoch 248 / 250
+Duration: 103s, Train Loss: 0.7083, Train Acc: 0.9687， Test Acc : 0.9404, Test Loss: 0.6447
+Epoch 249 / 250
+Duration: 102s, Train Loss: 0.7114, Train Acc: 0.9677， Test Acc : 0.9406, Test Loss: 0.6371
+Total Time:25670s
+Best Accuracy of the network on the test images: 94.4968 %
+Best epoch: 231
+
+
